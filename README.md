@@ -2,7 +2,7 @@
 
 This project is a Java implementation of a Conway's game of life.
 
-The code makes use of multi-threading to compute simultaneously the cells' states of the 4 divisions of the panel.
+The code makes use of multi-threading to compute simultaneously the cells' states by dividing the display panel into 4 equal areas.
 
 *Environment :* NetBeans IDE 8.2, JDK 1.8, SWING
 
